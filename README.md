@@ -11,4 +11,7 @@ The reason I was looking to do this is because I'm building an ESP8266 mesh netw
 I don't like it when people take away freedoms, so I've put them back. I used the binary tools in [esp-open-sdk](https://github.com/pfalcon/esp-open-sdk) to pick out the original version of the wifi_send_pkt_freedom(), plus I've exposed some of the features that aren't normally available in the ESP8266Wifi driver for Arduino. 
 
 In fact, I'm going to expose most of the Non-OS SDK, Espressif have released it, these files are straight out of version 1.3.0 of their IoT SDK. 
- 
+
+https://github.com/pulkin/esp8266-injection-example/
+
+https://github.com/RandDruid/esp8266-deauth/
